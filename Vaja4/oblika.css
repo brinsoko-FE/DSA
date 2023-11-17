@@ -1,0 +1,17 @@
+p {
+    font-weight: underline;
+    background-color: lightblue;
+}
+h1 {
+    font-style: italic;
+    color: red;
+    text-align: center;
+    border: 10px solid green;
+}
+
+ul {
+    list-style-type: disc;
+}
+h2{
+    font-weight: bold;
+}

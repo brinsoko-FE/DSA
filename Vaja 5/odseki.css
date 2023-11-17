@@ -1,0 +1,34 @@
+#spodaj{
+    float:left;
+    margin-top: 500px;
+    margin: auto;
+    width: 100%;
+    height: 50px;
+    background-color: #ffffff;
+    border: 3px solid red;
+}
+
+#levo{
+    position: relative;
+    float: left;
+    width: 50%;
+    height: 500px;
+    background-color: #f1f1f1;
+    padding-bottom: 20px;
+    margin: auto;
+}
+
+#desno{
+    position: relative;
+    float: right;
+    width: 50%;
+    height: 500px;
+    background-color: #f1f1f1;
+    padding-bottom: 20px;
+    margin: auto;
+}
+
+#logo{
+    width: 10%;
+}
+
